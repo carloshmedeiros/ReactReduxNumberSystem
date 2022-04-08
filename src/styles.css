@@ -1,0 +1,9 @@
+.App {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  color: aliceblue;
+}
+
+.linha {
+  display: flex;
+}
